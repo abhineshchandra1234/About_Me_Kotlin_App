@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Abhinesh</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">"The Taj Mahal lit. \'Crown of the Palace',
+        \nis an ivory-white marble mausoleum on the southern bank of the
+        \nriver Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor
+        \nShah Jahan (reigned from 1628 to 1658) to house the tomb of his favourite wife,
+        \nMumtaz Mahal; it also houses the tomb of Shah Jahan himself.
+        \nThe tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house,
+        \nand is set in formal gardens bounded on three sides by a crenellated wall"</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
